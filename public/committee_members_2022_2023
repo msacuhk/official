@@ -1,0 +1,262 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Committee Members 2022/2023</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+    <link rel="manifest" href="favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <!-- Favicon -->
+</head>
+
+<body>
+    <header class="text-darkgray bg-lightorange font-title text-2xl">
+        <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+            <a href="index.html" class="flex font-title font-medium items-center text-gray-900 mb-3 md:mb-0">
+                <img src="img/MSA Logo Transparent.png" class="w-12" alt="MSA logo">
+                <span class="ml-3 text-xl">MSACUHK</span>
+            </a>
+            <nav
+                class="md:ml-10 md:py-1 md:pl-4 md:border-l-2 md:border-darkgray flex flex-wrap items-center text-base justify-center">
+                <a href="about_us.html" class="ml-4 md:ml-10 hover:text-gray-900">About Us</a>
+				</a>
+				<a href="#" class="mr-5 md:mr-10">
+                <a href="#" class="hover:text-gray-900">
+                    <div class="dropdown">
+                        <button>Committee Members</button>
+                        <ul class="dropdown-menu absolute hidden text-gray-700 pt-2">
+                            <li class=""><a
+                                class="rounded-t bg-lightbrown hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                                href="committee_members_2021_2022.html">2021/2022</a></li>
+                            <li class=""><a
+                                    class="bg-lightbrown hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                                    href="committee_members_2020_2021.html">2020/2021</a></li>
+                            <li class=""><a
+                                    class="rounded-b bg-lightbrown hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                                    href="committee_members_2019_2020.html">2019/2020</a></li>
+                        </ul>
+                    </div>
+                </a>
+				<a href="#" class="mr-5 md:mr-10">
+				</a>
+                <a href="#" class="hover:text-gray-900">
+                    <div class="dropdown">
+                        <button>Events</button>
+                        <ul class="dropdown-menu absolute hidden text-gray-700 pt-2">
+						<li class=""><a
+                                    class="rounded-t bg-lightbrown hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                                    href="events_2022.html">2022</a></li>
+                            <li class=""><a
+                                    class="bg-lightbrown hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                                    href="events_2021.html">2021</a></li>
+                            <li class=""><a 
+									class="bg-lightbrown hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                                    href="events_2020.html">2020</a></li>
+                            <li class=""><a
+                                    class="rounded-b bg-lightbrown hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                                    href="events_2019.html">2019</a></li>
+                        </ul>
+                    </div>
+                </a>
+				</a>
+				<a href="#" class="mr-5 md:mr-10">
+                <a href="#" class="hover:text-gray-900">
+                    <div class="dropdown">
+                        <button>Projects</button>
+                        <ul class="dropdown-menu absolute hidden text-gray-700 pt-2">
+                            <li class=""><a
+                                    class="rounded-t bg-lightbrown hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                                    href="project_rojak_mou.html">一齊Rojak Mou? Let’s Rojak Together</a></li>
+                            <li class=""><a
+                                    class="rounded-b bg-lightbrown hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                                    href="project_family_tree.html">Family Tree System</a></li>
+                        </ul>
+                    </div>
+                </a>
+				</a>
+				<a href="#" class="mr-5 md:mr-10">
+                <a href="sponsors.html" class="hover:text-gray-900">Sponsors</a>
+				</a>
+				<a href="#" class="mr-5 md:mr-10">
+                <a href="#" class="hover:text-gray-900">
+                    <div class="dropdown">
+                        <button>Sharing</button>
+                        <ul class="dropdown-menu absolute hidden text-gray-700 pt-2">
+                            <li class=""><a
+                                    class="rounded-t bg-lightbrown hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                                    href="current_students.html">Current Students</a></li>
+                            <li class=""><a
+                                    class="bg-lightbrown hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                                    href="prospective_students.html">Prospective Students</a></li>
+                            <li class=""><a
+                                    class="rounded-b bg-lightbrown hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                                    href="non_malaysians.html">Non-Malaysians</a></li>
+                        </ul>
+                    </div>
+                </a>
+				</a>
+				<a href="#" class="mr-5 md:mr-10">
+                <a href="contact_us.html" class="md:mr-10 hover:text-gray-900">Contact Us</a>
+            </nav>
+			<span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
+                <a href="https://www.facebook.com/msacuhk/" class="text-gray-500" rel="noopener noreferrer"
+                    target="_blank">
+                    <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                        class="w-5 h-5" viewBox="0 0 24 24">
+                        <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
+                    </svg>
+                </a>
+                <a href="https://www.instagram.com/msacuhk" class="ml-3 text-gray-500" rel="noopener noreferrer"
+                    target="_blank">
+                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                        stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+                        <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
+                        <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"></path>
+                    </svg>
+                </a>
+            </span>
+        </div>
+    </header>
+
+    <section class="text-darkgray font-body px-4 md:px-8 lg:px-16">
+        <div class="container px-10 pt-10 pb-24 mx-auto">
+            <div class="flex flex-col text-center w-full mb-10 pb-10 border-b-4 border-lightorange">
+                <h1 class="text-4xl font-medium font-title text-gray-900">OUR COMMITTEE MEMBERS</h1>
+                <p class="lg:w-2/3 mx-auto leading-relaxed mb-4 text-base">2022/23</p>
+                <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Have a look at MSACUHK's Committee Members for
+                    2022/23!
+                </p>
+            </div>
+            <div class="flex flex-wrap justify-center -m-4">
+                <div class="p-4 lg:w-1/4 md:w-1/2">
+                    <div class="h-full flex flex-col items-center text-center">
+                        <img alt="team"
+                            class="flex-shrink-0 rounded-lg w-full h-96 object-cover object-center mb-4 zoom"
+                            src="img/Committee_2022/Portia.JPG">
+                        <div class="w-full">
+                            <h2 class="font-title font-medium text-lg font-bold">Portia Lim Pei Shi</h2>
+                            <h3 class="text-darkorange mb-3">President</h3>
+                            <p>Integrated BBA Programme</p>
+                            <p class="mb-4">Morningside College</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="p-4 lg:w-1/4 md:w-1/2">
+                    <div class="h-full flex flex-col items-center text-center">
+                        <img alt="team"
+                            class="flex-shrink-0 rounded-lg w-full h-96 object-cover object-center mb-4 zoom"
+                            src="img/Committee_2022/KaiYang.jpg">
+                        <div class="w-full">
+                            <h2 class="font-title font-medium text-lg font-bold">Tan Kai Yang</h2>
+                            <h3 class="text-darkorange mb-3">Vice Presidemt</h3>
+                            <p>Enrichment Stream in Theoretical Physics</p>
+                            <p class="mb-4">S.H. Ho College</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="p-4 lg:w-1/4 md:w-1/2">
+                    <div class="h-full flex flex-col items-center text-center">
+                        <img alt="team"
+                            class="flex-shrink-0 rounded-lg w-full h-96 object-cover object-center mb-4 zoom"
+                            src="img/Committee_2022/Rebecca.JPG">
+                        <div class="w-full">
+                            <h2 class="font-title font-medium text-lg font-bold">Rebecca Tam Jia Huey</h2>
+                            <h3 class="text-darkorange mb-3">Secretary & Public Relations Officer</h3>
+                            <p>Biomedical Science</p>
+                            <p class="mb-4">New Asia College</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="flex flex-wrap justify-center -m-4">
+                <div class="p-4 lg:w-1/4 md:w-1/2">
+                    <div class="h-full flex flex-col items-center text-center">
+                        <img alt="team"
+                            class="flex-shrink-0 rounded-lg w-full h-96 object-cover object-center mb-4 zoom"
+                            src="img/Committee_2022/JiaHan.JPG">
+                        <div class="w-full">
+                            <h2 class="font-title font-medium text-lg font-bold">Liu Jia Han</h2>
+                            <h3 class="text-darkorange mb-3">Treasurer & Event Manager</h3>
+                            <p>Economics</p>
+                            <p class="mb-4">S.H. Ho College</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="p-4 lg:w-1/4 md:w-1/2">
+                    <div class="h-full flex flex-col items-center text-center">
+                        <img alt="team"
+                            class="flex-shrink-0 rounded-lg w-full h-96 object-cover object-center mb-4 zoom"
+                            src="img/Committee_2022/Chloe.JPG">
+                        <div class="w-full">
+                            <h2 class="font-title font-medium text-lg font-bold">Chloe Loo Xiang Ting</h2>
+                            <h3 class="text-darkorange mb-3">Design and Promotions Officer</h3>
+                            <p>Chinese Studies</p>
+                            <p class="mb-4">Lee Woo Sing College</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="p-4 lg:w-1/4 md:w-1/2">
+                    <div class="h-full flex flex-col items-center text-center">
+                        <img alt="team"
+                            class="flex-shrink-0 rounded-lg w-full h-96 object-cover object-center mb-4 zoom"
+                            src="img/Committee_2022/YuHsiang.JPG">
+                        <div class="w-full">
+                            <h2 class="font-title font-medium text-lg font-bold">Lin Yu Hsiang</h2>
+                            <h3 class="text-darkorange mb-3">Webmaster</h3>
+                            <p>Computer Science</p>
+                            <p class="mb-4">Shaw College</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="text-darkgray bg-lightorange font-body">
+        <div class="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
+            <a class="flex font-title font-medium items-center md:justify-start justify-center text-gray-900">
+                <img src="img/MSA Logo Transparent.png" class="w-12" alt="MSA logo">
+                <span class="ml-3 text-xl">MSACUHK</span>
+            </a>
+            <p class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-darkgray sm:py-2 sm:mt-0 mt-4">©
+                2020
+                MSACUHK</p>
+            <span class="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
+                <a href="https://www.facebook.com/msacuhk/" class="text-gray-500" rel="noopener noreferrer"
+                    target="_blank">
+                    <svg fill="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                        class="w-5 h-5" viewBox="0 0 24 24">
+                        <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
+                    </svg>
+                </a>
+                <a href="https://www.instagram.com/msacuhk" class="ml-3 text-gray-500" rel="noopener noreferrer"
+                    target="_blank">
+                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+                        stroke-width="2" class="w-5 h-5" viewBox="0 0 24 24">
+                        <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
+                        <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37zm1.5-4.87h.01"></path>
+                    </svg>
+                </a>
+            </span>
+        </div>
+    </footer>
+</body>
+
+</html>
