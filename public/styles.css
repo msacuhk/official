@@ -11768,7 +11768,7 @@ video {
 }
 
 .font-title{
-  font-family: Arial;
+  font-family: Times, Times New Roman, serif;
 }
 
 .font-body{
@@ -12049,8 +12049,8 @@ video {
 }
 
 .text-2xl{
-  font-size: 3rem;
-  line-height: 1rem;
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 
 .text-3xl{
