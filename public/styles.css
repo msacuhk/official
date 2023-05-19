@@ -144,6 +144,14 @@ body {
 		'Segoe UI Emoji';
 }
 
+/**
+Add a background image.
+body {
+  background-image: url("./img/BigHorse.jpg");
+  background-size: cover;
+}
+*/
+
 /*
 Grouping content
 ================
@@ -4419,6 +4427,20 @@ video {
 
 .bg-none{
   background-image: none;
+}
+
+.bg-flag{
+  background-image: url("./img/Malaysia\ Flag.jpg");
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: 950px 475px;
+}
+
+.bg-horse{
+  background-image: url("./img/Big\ Horse.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 243px 250px;
 }
 
 .bg-gradient-to-t{
