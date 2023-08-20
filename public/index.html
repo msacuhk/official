@@ -22,7 +22,6 @@
     <link rel="icon" type="image/png" sizes="96x96" href="favicon/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
     <link rel="manifest" href="favicon/manifest.json">
-    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
@@ -173,9 +172,9 @@
     headerPlaceholder.innerHTML = headerContent;
     const footerPlaceholder = document.getElementById('footer-placeholder');
     footerPlaceholder.innerHTML = footerContent;
+    
     let slideIndex = 0;
     showSlides();
-
     function showSlides() {
         let i;
         let slides = document.getElementsByClassName("mySlides");
@@ -185,7 +184,7 @@
         slideIndex++;
         if (slideIndex > slides.length) {slideIndex = 1}
         slides[slideIndex-1].style.display = "block";  
-        setTimeout(showSlides, 5000); // Change image every 2 seconds
+        setTimeout(showSlides, 5000);
     }
 </script>
 </html>
